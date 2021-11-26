@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bruno Fernandes Hebling
+- 👋 Hi, I’m Bruno Hebling
 - 👀 I’m interested in becoming a front-end develop.
 - 🌱 I’m currently learning HTML, CSS, JavaScript.
 - 💞️ I am looking to learn and improve my techniques as a developer.
