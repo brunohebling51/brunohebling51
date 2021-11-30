@@ -1,7 +1,5 @@
 ## Hi! I'm Bruno Hebling
-<div align="center">
-  <a href="https://github.com/brunohebling51">
-  </div>
+
 <div>
 - 👀 I’m interested in becoming a front-end develop.
 - 🌱 I’m currently learning HTML, CSS, JavaScript.
