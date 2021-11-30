@@ -1,10 +1,10 @@
 ## Hi! I'm Bruno Hebling
 <div align="center">
   <a href="https://github.com/brunohebling51">
-- 👀 I’m interested in becoming a front-end develop.
+<p>- 👀 I’m interested in becoming a front-end develop.
 - 🌱 I’m currently learning HTML, CSS, JavaScript.
 - 💞️ I am looking to learn and improve my techniques as a developer.
-- 📫 Via https://www.linkedin.com/in/bruno-fernandes-aa1b1881/
+- 📫 Via https://www.linkedin.com/in/bruno-fernandes-aa1b1881/</p>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="ted-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
