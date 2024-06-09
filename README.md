@@ -1,7 +1,7 @@
 ## Hi! I'm Bruno Hebling
 
 - 👀 I’m interested in becoming a front-end develop.
-- 🌱 I’m currently learning HTML, CSS, JavaScript.
+- 🌱 I’m currently learning HTML, CSS, JavaScript and React.js.
 - 💞️ I am looking to learn and improve my techniques as a developer.
 
 <div style="display: inline_block"><br>
